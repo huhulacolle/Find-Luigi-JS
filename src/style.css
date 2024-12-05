@@ -1,0 +1,21 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+footer {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+}
